@@ -197,6 +197,5 @@ public class Main {
     }
 }
 ```
-
 ![input](8.png)
 
